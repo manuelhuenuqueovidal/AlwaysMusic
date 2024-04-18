@@ -6,8 +6,8 @@ const config = {
   host: "localhost",
   port: 5432,
   database: "alwaysmusic",
-  user: "manu",
-  password: "canta0912",
+  user: "****",
+  password: "*****",
 };
 
 // Instanciamos la clase Pool
